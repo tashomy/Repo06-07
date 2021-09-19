@@ -1,0 +1,33 @@
+#main-heading {
+    color: red;
+    text-align: center;
+}
+
+.boxes {
+    display: flex;
+}
+
+.box {
+    width: 33%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.box-image{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+
+.box-title {
+    color: aqua;
+    padding: 0 20px;
+}
+
+.box-paragraph {
+    padding: 0 20px;
+}
+
+.full-image {
+    display: none;
+}
